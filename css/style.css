@@ -1,0 +1,29 @@
+/* Fotki style css */
+
+body {
+    color: #444;
+    font: normal 95% 'Droid Sans', arial, serif;
+    margin:0;
+    padding:0;
+}
+a {
+    color: #112046;
+}
+a:hover {
+    color: #ea0000;
+}
+
+/* photo tables */
+div.photokonkurs {
+  padding: 0px;
+  margin: 0px;
+  overflow: hidden;
+}
+.photo {
+  vertical-align: top;
+  display: inline-block;
+  margin: 0px 15px 20px 0px;
+}
+.photo img {
+  border: 5px solid #dddddd;
+}
